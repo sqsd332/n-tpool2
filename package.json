@@ -1,0 +1,24 @@
+{
+  "name": "n-tpool2",
+  "version": "0.1.1",
+  "description": "thrift连接池",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sqsd332/n-tpool2.git"
+  },
+  "keywords": [
+    "thrift",
+    "node",
+    "pool"
+  ],
+  "author": "sqsd332",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sqsd332/n-tpool2/issues"
+  },
+  "homepage": "https://github.com/sqsd332/n-tpool2#readme"
+}
