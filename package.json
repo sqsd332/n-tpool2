@@ -1,6 +1,6 @@
 {
   "name": "n-tpool2",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "description": "thrift连接池",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/sqsd332/n-tpool2/issues"
   },
-  "homepage": "https://github.com/sqsd332/n-tpool2#readme"
+  "homepage": "https://github.com/sqsd332/n-tpool2#readme",
+  "dependencies": {
+    "generic-pool": "^3.8.2",
+    "thrift": "^0.15.0"
+  }
 }
